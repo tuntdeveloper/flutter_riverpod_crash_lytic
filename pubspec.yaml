@@ -1,0 +1,30 @@
+name: crashlytics_task
+description: A new Flutter project.
+publish_to: 'none' # Remove this line if you wish to publish to pub.dev
+
+version: 1.0.0+1
+
+environment:
+  sdk: '>=3.0.5 <4.0.0'
+
+dependencies:
+  flutter:
+    sdk: flutter
+    
+  cupertino_icons: 1.0.2
+  flutter_riverpod: 2.3.6
+  hive_flutter: 1.1.0
+  get_it: 7.7.0
+  firebase_crashlytics: 4.1.0
+  firebase_core: 3.4.0
+  freezed_annotation: 2.4.4
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+  flutter_lints: 2.0.0
+  build_runner: 2.4.9
+  freezed: 2.5.2
+
+flutter:
+  uses-material-design: true

@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "512731038916",
+    "project_id": "crashlytic-project",
+    "storage_bucket": "crashlytic-project.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:512731038916:android:443ca4aa68edd5d285f591",
+        "android_client_info": {
+          "package_name": "com.example.crashlytics_task"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDaBPYKUJF4ZiQ5obp3PRpAsMDkjNJpwgs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
