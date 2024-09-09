@@ -50,19 +50,19 @@ class DefaultFirebaseOptions {
   }
 
   static const FirebaseOptions android = FirebaseOptions(
-    apiKey: 'AIzaSyDaBPYKUJF4ZiQ5obp3PRpAsMDkjNJpwgs',
-    appId: '1:512731038916:android:443ca4aa68edd5d285f591',
-    messagingSenderId: '512731038916',
-    projectId: 'crashlytic-project',
-    storageBucket: 'crashlytic-project.appspot.com',
+    apiKey: '',
+    appId: '',
+    messagingSenderId: '',
+    projectId: '',
+    storageBucket: '',
   );
 
   static const FirebaseOptions ios = FirebaseOptions(
-    apiKey: 'AIzaSyARGUkaQecu2yW_KPz3itw6DoOgQ3jyjDs',
-    appId: '1:512731038916:ios:0f0dfb3c608fa52085f591',
-    messagingSenderId: '512731038916',
-    projectId: 'crashlytic-project',
-    storageBucket: 'crashlytic-project.appspot.com',
-    iosBundleId: 'com.example.crashlyticsTask',
+    apiKey: '',
+    appId: '',
+    messagingSenderId: '',
+    projectId: '',
+    storageBucket: '',
+    iosBundleId: '',
   );
 }
